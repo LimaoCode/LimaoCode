@@ -1,5 +1,5 @@
-## Olá eu sou o Limão <br>Seja bem-vindo ou bem-vinda ao meu GitHub!
-
+## Olá eu sou o Limão 🍋 <br>Seja bem-vindo ou bem-vinda ao meu GitHub!
+ 
 <div align="inline">
   <a href="https://github.com/LimaoCode">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LimaoCode&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
