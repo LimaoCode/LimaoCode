@@ -2,8 +2,8 @@
  
 <div align="inline">
   <a href="https://github.com/LimaoCode">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LimaoCode&show_icons=true&icon_color=7fff00&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimaoCode&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LimaoCode&locale=pt-br&show_icons=true&icon_color=7fff00&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimaoCode&locale=pt-br&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
   
 <div style="display: inline_block"><br>
