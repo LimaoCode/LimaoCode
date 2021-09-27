@@ -16,7 +16,7 @@
   ##
  
 <div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-7fff00?style=for-the-badge&logo=youtube&logoColor=Black" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=youtube&logoColor=7fff00" target="_blank"></a>
   <a href="https://instagram.com/LimaoCode" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%237fff00?style=for-the-badge&logo=instagram&logoColor=Black" target="_blank"></a>
  	<a href="https://www.twitch.tv/LimaoCode" target="_blank"><img src="https://img.shields.io/badge/Twitch-7fff00?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/DFBVChW" target="_blank"><img src="https://img.shields.io/badge/Discord-7fff00?style=for-the-badge&logo=discord&logoColor=Black" target="_blank"></a> 
