@@ -1,4 +1,5 @@
-## Olá eu sou o Limão, seja bem vindo!
+## Olá eu sou o Limão
+Seja bem-vindo ou bem-vinda ao meu GitHub!
 
 <div align="inline">
   <a href="https://github.com/LimaoCode">
