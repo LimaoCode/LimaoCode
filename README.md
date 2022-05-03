@@ -1,4 +1,4 @@
-## Olá eu sou o Limão 🍋 <br> Seja bem-vindo ou bem-vinda ao meu GitHub!
+## Hi I'm Lemon 🍋 <br> Welcome to my GitHub!
 
 ## Infos:
 <div align="inline">
