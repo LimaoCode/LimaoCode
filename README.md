@@ -1,11 +1,13 @@
 ## Olá eu sou o Limão 🍋 <br> Seja bem-vindo ou bem-vinda ao meu GitHub!
- 
+
+##Infos:
 <div align="inline">
   <a href="https://github.com/LimaoCode">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LimaoCode&locale=pt-br&show_icons=true&icon_color=7fff00&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimaoCode&locale=pt-br&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
-  
+
+##Skills:
 <div style="display: inline_block"><br>
   <img align="center" alt="Limao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Limao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -18,8 +20,7 @@
   <img align="center" alt="Limao-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />       
 </div>
   
-  ##
- 
+##Sociais:
 <div> 
   <a href="https://instagram.com/LimaoCode" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23000?style=for-the-badge&logo=instagram&logoColor=7fff00" target="_blank"></a>
  	<a href="https://www.twitch.tv/LimaoCode" target="_blank"><img src="https://img.shields.io/badge/Twitch-000?style=for-the-badge&logo=twitch&logoColor=7fff00" target="_blank"></a>
