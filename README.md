@@ -7,10 +7,10 @@
 <p>
 
 Estou cursando o bacharelado em Sistemas de Informação na [**UniFTC**](https://www.uniftc.edu.br/a-uniftc/).<br/>
-Trabalho como desenvolvedor na [**Alltomatize**](https://alltomatize.com.br/).<br/>
+Trabalho como desenvolvedor Full Stack na [**Alltomatize**](https://alltomatize.com.br/).<br/>
 
 Eu sou desenvolvedor FrontEnd especialista em React.JS e UI/UX Design.
-Tenho interesse em me tornar um desenvolvedor Web Full Stack e estou expandindo meu conhecimento estudando sobre Backend (C#, ASP.NET E .NET) e Mobile (React Native e Flutter).
+Tenho interesse em me especializar em desenvolvimento Web Full Stack, estou expandindo meu conhecimento estudando sobre Backend (C#, ASP.NET E .NET) e Mobile (React Native e Flutter).
 
   
   
@@ -39,10 +39,10 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 [<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://media.licdn.com/dms/image/D4D0BAQEzHTNvkdG3sQ/company-logo_200_200/0/1681131747693?e=1692835200&v=beta&t=IKry9dnxoG-hV0y60JfHPSY9XXfYo9fvJdHZxcvJkbc"/>](https://alltomatize.com.br/)
 
-**Front-end Developer (Jr)** \
+**Front-end Developer** \
 [**Alltomatize**](https://alltomatize.com.br/) • Full-time \
-Linguagens & Tecnologias: `JavaScript`, `React`, `TailwindCSS`, `Adonis.JS`\
-Projetos em destaque: [Portal B2B - WebVendas](), [Portal - RedeMed](), [Portal - LucreMais]()
+Linguagens & Tecnologias: `JavaScript`, `TypeScript`, `React`, `TailwindCSS`, `Adonis.JS`, `Dart`, `Flutter`\
+Projetos em destaque: [Portal B2B - Avante](), [Portal - RedeMed](), [Portal - LucreMais](), [Aplicativo - Attak]()
 <br/>
 <br/>
 
@@ -50,7 +50,7 @@ Projetos em destaque: [Portal B2B - WebVendas](), [Portal - RedeMed](), [Portal 
 [<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://avatars.githubusercontent.com/u/106625656?s=200&v=4"/>](https://www.instagram.com/praticafacility/)
 **Front-end Developer** \
 [**Pratica Facility**](https://www.instagram.com/praticafacility/) • Contract \
-Linguagens & Tecnologias: `JavaScript`, `React`, `Node.JS`, `Express.JS`, `AWS`\
+Linguagens & Tecnologias: `JavaScript`, `React`, `TailwindCSS`, `Node.JS`, `Express.JS`, `AWS`, `Amplify`\
 Projetos em destaque: [App - Pratica Alimentos](),
 <br/>
 <br/>
