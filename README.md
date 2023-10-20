@@ -37,7 +37,7 @@ Tenho interesse em me especializar em desenvolvimento Web Full Stack, estou expa
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Alltomatize" src="https://instagram.fvdc4-1.fna.fbcdn.net/v/t51.2885-19/356389006_1467626837409048_1864203195415723972_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fvdc4-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=Eq4Y8EaFzd8AX_suZJL&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfCEB4JA4CTaJKuyJ3Fiae5JjIzZrWDF6-aE2mgK1JTHfg&oe=65065B0C&_nc_sid=8b3546"/>](https://alltomatize.com.br/)
+[<img align="left" height="94px" width="94px" alt="Alltomatize" src="https://atomos.alltomatize.com.br/favicon.ico"/>](https://alltomatize.com.br/)
 
 **Front-end Developer** \
 [**Alltomatize**](https://alltomatize.com.br/) • Full-time \
