@@ -34,26 +34,3 @@ Tenho interesse em me especializar em desenvolvimento Web Full Stack, estou expa
 
 </p>
 <hr>
-
-### Experiência de trabalho
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
-
-[<img align="left" height="94px" width="94px" alt="Alltomatize" src="https://atomos.alltomatize.com.br/favicon.ico"/>](https://alltomatize.com.br/)
-
-**Front-end Developer** \
-[**Alltomatize**](https://alltomatize.com.br/) • Full-time \
-Linguagens & Tecnologias: `JavaScript`, `TypeScript`, `React`, `TailwindCSS`, `Adonis.JS`, `Dart`, `Flutter`\
-Projetos em destaque: [Portal B2B - Avante](), [Portal - RedeMed](), [Portal - LucreMais](), [Aplicativo - Attak]()
-<br/>
-<br/>
-
-
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://avatars.githubusercontent.com/u/106625656?s=200&v=4"/>](https://www.instagram.com/praticafacility/)
-**Front-end Developer** \
-[**Pratica Facility**](https://www.instagram.com/praticafacility/) • Contract \
-Linguagens & Tecnologias: `JavaScript`, `React`, `TailwindCSS`, `Node.JS`, `Express.JS`, `AWS`, `Amplify`\
-Projetos em destaque: [App - Pratica Alimentos](),
-<br/>
-<br/>
-
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/limaocode/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
