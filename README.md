@@ -1,8 +1,8 @@
 # Olá, eu sou o João Vitor 👋
 
-**Bacharel em Sistemas de Informação** atuando como **Software Architect** no grupo Santander Brasil ([F1rst Digital Services](https://f1rst.com.br/first)). Trabalho com arquitetura de Front-End para canais internos, desenhando soluções globais que promovem padronização e escalabilidade entre times distribuídos.
+**Bacharel em Sistemas de Informação** atuando como **Software Architect** no grupo Santander Brasil ([F1rst Digital Services](https://f1rst.com.br/first)). Atuo em um time cross-funcional, desenvolvendo e provendo ferramentas técnicas para os demais times de engenharia, com foco em padronização e escalabilidade de aplicações Front-End entre squads distribuídas.
 
-Atualmente minha pegada é ser generalista e resolver problemas com a stack que estiver disponivel.
+Minha pegada é ser generalista e resolver problemas com a stack que estiver disponível, mantendo proximidade direta com o código.
 
 ---
 
