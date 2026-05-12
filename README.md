@@ -1,36 +1,50 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=limaocode&count_private=true&show_icons=true&theme=dark">
+# Olá, eu sou o João Vitor 👋
 
+**Bacharel em Sistemas de Informação** atuando como **Software Architect** no grupo Santander Brasil ([F1rst Digital Services](https://f1rst.com.br/first)). Trabalho com arquitetura de Front-End para canais internos, desenhando soluções globais que promovem padronização e escalabilidade entre times distribuídos.
 
+Atualmente minha pegada é ser generalista e resolver problemas com a stack que estiver disponivel.
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=LIMAOCODE&color=39B54A&style=for-the-badge&logo=GitHub">
+---
 
-<p>
+### 🛠️ Stack
 
-Estou cursando o bacharelado em Sistemas de Informação na [**UniFTC**](https://www.uniftc.edu.br/a-uniftc/).<br/>
-Trabalho como desenvolvedor Full Stack na [**Alltomatize**](https://alltomatize.com.br/).<br/>
+**Linguagens**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+ 
+**Front-End**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+ 
+**Cloud & Infra**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+ 
+**Mensageria & Dados**
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+ 
+**Versionamento**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+ 
+**AWS:** S3 · EC2 · ECR · SQS
 
-Eu sou desenvolvedor FrontEnd especialista em React.JS e UI/UX Design.
-Tenho interesse em me especializar em desenvolvimento Web Full Stack, estou expandindo meu conhecimento estudando sobre Backend (C#, ASP.NET E .NET) e Mobile (React Native e Flutter).
+**Práticas:** Clean Code · Code Review · SCRUM · GitOps · SRE · Chaos Engineering
 
-  
-  
+---
 
-<hr>
+### 📫 Contato
 
-#### Linguagens & Tecnologias que possuo domínio:<br/>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Nodejs"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" alt="AdonisJS"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="NextJS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" alt="tailwindcss"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma"/></code>
-          
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaorochadev/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contatolimaocode@gmail.com)
 
-</p>
-<hr>
+---
+
+<sub>*"Tenha a crença de que a tecnologia deve ser acessível e compreensível para todos os públicos."*</sub>
